@@ -6,6 +6,7 @@ This Tableau project provides an in-depth analysis of sales performance, designe
 **Dashboard Link:** https://public.tableau.com/app/profile/harsh.mehta5638/viz/SalesPerformanceAnalysisDashboardforStrategicInsights/SalesDashboard
 
 **Dashboard Features**
+
 **1) KPI Overview:**
 Displays key metrics, including total sales, total profit, and total quantity for the current year with a percentage change from the previous year. Key performance indicators (KPIs) highlight annual growth trends.
 
