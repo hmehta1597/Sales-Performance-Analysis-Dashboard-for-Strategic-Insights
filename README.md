@@ -25,5 +25,5 @@ Weekly breakdowns of sales and profit data illustrate fluctuations, with color-c
 - Product-level analysis empowers managers to make data-driven decisions on product investments and divestments.
 - Weekly performance trends offer granular visibility, essential for short-term planning and response to dynamic market conditions.
 
-**Impact**
+**Impact:**
 - This Sales Performance Dashboard facilitates data-driven decision-making by providing clear and actionable insights into sales and profit trends, empowering stakeholders to make informed business strategies.
