@@ -1,11 +1,12 @@
 # Sales-Performance-Analysis-Dashboard-for-Strategic-Insights
 
-**Overview**
+**Overview:**
+
 This Tableau project provides an in-depth analysis of sales performance, designed to help stakeholders, including sales managers and executives, gain insights into key metrics and trends over time. The dashboard presents year-over-year (2020-2023) comparisons for total sales, profit, and quantity, enabling users to understand and assess overall business performance effectively.
 
 **Dashboard Link:** https://public.tableau.com/app/profile/harsh.mehta5638/viz/SalesPerformanceAnalysisDashboardforStrategicInsights/SalesDashboard
 
-**Dashboard Features**
+**Dashboard Features:**
 
 **1) KPI Overview:**
 Displays key metrics, including total sales, total profit, and total quantity for the current year with a percentage change from the previous year. Key performance indicators (KPIs) highlight annual growth trends.
@@ -19,7 +20,7 @@ A comparison of sales and profit across various product subcategories for the cu
 **4) Weekly Trends for Sales & Profit:**
 Weekly breakdowns of sales and profit data illustrate fluctuations, with color-coded indicators to highlight periods above or below average. This detailed trend view helps in monitoring shorter-term performance variations and identifying potential seasonal influences.
 
-**Key Insights**
+**Key Insights:**
 - The dashboard successfully identifies periods of peak performance in sales and profit, helping stakeholders focus on high- and low-performing timeframes.
 - Product-level analysis empowers managers to make data-driven decisions on product investments and divestments.
 - Weekly performance trends offer granular visibility, essential for short-term planning and response to dynamic market conditions.
